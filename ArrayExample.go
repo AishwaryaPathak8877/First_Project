@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-  myarray[5]int
+  var myarray[5]int
   
   myarray[0] = 1
   myarray[1] = 2

@@ -12,3 +12,4 @@ func main(){
   }else{
     fmt.Println("Number is zero")
   }
+}
